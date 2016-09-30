@@ -1,0 +1,91 @@
+.bg{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.font-white{
+    font-family: Roboto;
+    color: white;
+}
+
+.font-black{
+    font-family: Roboto;
+    color: black;
+}
+
+.margin-xxlarge-top{
+    margin-top: 600px;
+}
+
+.margin-left{
+    margin-left: 50px;
+}
+
+.margin-large-top{
+    margin-top: 200px;
+}
+
+.margin-leftt{
+    margin-left: 40px;
+}
+
+.margin-leftleft{
+    margin-left: 100px;
+}
+
+
+.margin-top{
+    margin-top: 80px;
+}
+
+.buttona{
+    background: none;
+    border: none;
+}
+
+.buttona:active{
+    background-color: rgba(255,255,255,0.3);
+    padding: 1% 7% 1% 7%;
+    border-radius: 10%;
+}
+
+.header-bg{
+    background-image: url(../img/hombgedited.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20%;
+    position: relative;
+}
+
+.cardcardan{
+    background-color: white;
+    width: 900px;
+    height: 1300px;
+    border-radius: 2%;
+    position: relative;
+    top: -200px;
+    left: -35px;;
+    right: 0;
+    margin: auto;
+    box-shadow: 5px 5px 30px #777777;
+}
+
+.bote-size{
+    width: 30%;
+}
+
+.botepahiga{
+    margin-left: 200px;
+    top: -65px;
+    position: relative;
+}
+
+.colored{
+    color: #1f6680;
+}
+/*loader*/
+/*loader style*/
+.js div#preloader { position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: #347dd1 url('../img/loader.jpg') no-repeat center center; }
+/*End of loader style*/
+/*End of loeader*/
